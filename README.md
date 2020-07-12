@@ -1,6 +1,6 @@
 # NOTAS DE ESTUDO DO LIVRO LEARNING PYTHON
 
-Exemplos dos códigos apresentados no livro e tradução dos resumos dos capítulos e questionários.
+Exemplos dos códigos apresentados e tradução dos resumos de capítulos e questionários.
 
 ## INFORMAÇÕES DO LIVRO
 
