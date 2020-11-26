@@ -9,5 +9,6 @@
     "cSpell.words": [
         "monty",
         "vikins"
-    ]
+    ],
+    "jupyter.jupyterServerType": "local"
 }
