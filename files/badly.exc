@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<ipython-input-12-66772f3b130e>", line 2, in <module>
+    inverse(0)
+  File "<ipython-input-11-6adc9ddd87cc>", line 2, in inverse
+    return 1/x
+ZeroDivisionError: division by zero
